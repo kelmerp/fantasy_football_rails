@@ -11,3 +11,9 @@ header {
   background-color: #111;
   text-align: center;
 }
+
+header div.login {
+  position: fixed;
+  right: 15px;
+  top: 30px;
+}
